@@ -1,0 +1,27 @@
+<div class="row mt-2 pb-3 border-bottom d-flex justify-content-between">
+    <div class="col-xl d-flex flex-column justify-content-center">
+        <h1 class="display-4 fw-bold mb-0 pb-4 border-bottom"><%=pageTitle%></h1>
+        <ul class="list-group">
+            <%for (let credit of credits) {%>
+            <li class="list-group-item d-flex justify-content-between align-items-center <%=credit[2]%>">
+                <div class="ms-0 me-3 d-flex align-items-center fw-bold">
+                    <%=credit[0]%>
+                </div>
+                <ul class="list-group">
+                    <li class="list-group-item d-flex justify-content-between align-items-start 
+                    pb-0 pt-0 <%=credit[3]%>">
+                        <%=credit[1]%>
+                    </li>
+                </ul>
+            </li>
+            <%}%>
+        </ul>
+    </div>
+    <div class="col-xl-3 d-flex flex-column justify-content-center align-items-center text-center">
+        <figure class="figure mb-0">
+            <img src=<%=mainPic.picUrl%> class="figure-img img-fluid rounded mainPic" alt=<%=mainPic.tooltip%>
+            title=<%=mainPic.tooltip%>>
+            <figcaption class="figure-caption text-center"><%=mainPic.caption%></figcaption>
+            </figure>
+    </div>
+</div>

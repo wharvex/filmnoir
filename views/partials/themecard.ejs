@@ -1,0 +1,11 @@
+<div class="col-sm-3 mt-4">
+    <div class="card border border-dark <%=filmData.themes[i].align%>">
+        <div class="card-body">
+            <h5 class="card-title pb-2 border-bottom border-dark fst-italic <%=filmData.themes[i].color%>">
+                <%=filmData.themes[i].name%>
+            </h5>
+            <p class="card-text"><%=filmData.themes[i].description%></p>
+            <a href=<%= "/t/" + filmData.themes[i].id %> class="btn btn-dark fw-bold stretched-link">View Theme</a>
+        </div>
+    </div>
+</div>

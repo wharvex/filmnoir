@@ -1,0 +1,16 @@
+body {
+    background-color: #b7b7a4;
+}
+
+.mainPic {
+    max-width: 450px;
+    max-height: 337.5px;
+}
+
+.secPic {
+    max-height: 40px;
+}
+
+.cardPic {
+    max-height: 194.25px;
+}

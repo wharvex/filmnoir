@@ -1,0 +1,13 @@
+<div class="col-sm-3 mt-5">
+    <div class="card border border-dark <%= themeData[i].align %>">
+        <img src=<%= themeData[i].pic.picUrl %> class="card-img-top cardPic" alt=<%= themeData[i].pic.tooltip %>
+            title=<%= themeData[i].pic.tooltip %>>
+        <div class="card-body">
+            <a href=<%= "/t/"+themeData[i].id %> class="stretched-link text-decoration-none">
+                <h5 class="card-title pb-3 border-bottom border-dark fst-italic <%= themeData[i].color %>">
+                    <%= themeData[i].name %></h5>
+            </a>
+            <p class="card-text pt-1"><%= themeData[i].description %></p>
+        </div>
+    </div>
+</div>

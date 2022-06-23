@@ -1,0 +1,32 @@
+[
+    {
+        "id": "shs",
+        "name": "Secret historical spousicide",
+        "description": "Woman has a secret history of murdering spouses (hers or someone else's)."
+    },
+    {
+        "id": "gag",
+        "name": "Grass ain't greener",
+        "description": "Character abandons wholesome/safe love to pursue dangerous/corrupt love."
+    },
+    {
+        "id": "ms",
+        "name": "Money spiral",
+        "description": "Quickly compounding/accumulating issues stemming from monetary dishonesty."
+    },
+    {
+        "id": "mor",
+        "name": "Murder on rails",
+        "description": "Murder occurring (or seeming to occur) on or near a train."
+    },
+    {
+        "id": "eta",
+        "name": "Eve tempts Adam",
+        "description": "Woman cajoles man into doing an evil deed for her (usually murder)."
+    },
+    {
+        "id": "bhb",
+        "name": "Boarding house blues",
+        "description": "Issues with living in a boarding house, such as dangerous residents or intrusive landlords."
+    }
+]

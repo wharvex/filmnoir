@@ -1,0 +1,15 @@
+<div class="row pt-2 pb-3 border-bottom d-flex justify-content-around">
+    <div class="col-xl-5 d-flex flex-column justify-content-center align-items-center text-center">
+        <h1 class="display-1 fw-bold">
+            <%= pageTitle %>
+        </h1>
+    </div>
+    <div class="col-xl-5 d-flex flex-column align-items-center text-center">
+        <figure class="figure mb-0">
+            <img src=<%= mainPic.picUrl %> class="figure-img img-fluid rounded mainPic" alt=<%= mainPic.tooltip %>
+                title=<%= mainPic.tooltip %>>
+            <figcaption class="figure-caption text-center"><%= mainPic.caption %>
+            </figcaption>
+        </figure>
+    </div>
+</div>

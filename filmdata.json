@@ -1,0 +1,91 @@
+[
+    {
+        "path": "innersanctum",
+        "title": "Inner Sanctum",
+        "year": 1948,
+        "directors": [
+            "Lew Landers"
+        ],
+        "producers": [
+            "Richard B. Morros",
+            "Samuel Rheiner",
+            "Walter Shenson"
+        ],
+        "writers": [
+            "Jerome T. Gollard"
+        ],
+        "stars": [
+            "Mary Beth Hughes",
+            "Charles Russell",
+            "Fritz Leiber, Sr.",
+            "Dale Belding",
+            "Billy House"
+        ],
+        "distributors": [
+            "Film Classics"
+        ],
+        "themeids": [
+            "mor",
+            "bhb"
+        ]
+    },
+    {
+        "path": "doubleindemnity",
+        "title": "Double Indemnity",
+        "year": 1944,
+        "directors": [
+            "Billy Wilder"
+        ],
+        "producers": [
+            "Joseph Sistrom"
+        ],
+        "writers": [
+            "Billy Wilder",
+            "Raymond Chandler"
+        ],
+        "stars": [
+            "Fred MacMurray",
+            "Barbara Stanwyck",
+            "Edward G. Robinson",
+            "Porter Hall",
+            "Jean Heather"
+        ],
+        "distributors": [
+            "Paramount"
+        ],
+        "themeids": [
+            "mor",
+            "eta",
+            "sps"
+        ]
+    },
+    {
+        "path": "toolatefortears",
+        "title": "Too Late for Tears",
+        "year": 1949,
+        "directors": [
+            "Byron Haskin"
+        ],
+        "producers": [
+            "Hunt Stromberg"
+        ],
+        "writers": [
+            "Roy Huggins"
+        ],
+        "stars": [
+            "Lizabeth Scott",
+            "Don DeFore",
+            "Dan Duryea",
+            "Arthur Kennedy",
+            "Kristine Miller"
+        ],
+        "distributors": [
+            "United Artists"
+        ],
+        "themeids": [
+            "sps",
+            "gag",
+            "mms"
+        ]
+    }
+]

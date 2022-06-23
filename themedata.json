@@ -1,0 +1,54 @@
+[
+    {
+        "id": "sps",
+        "name": "Secret Past Spousicide",
+        "description": "Character has a secret history of murdering spouses (theirs or someone else's).",
+        "films": [
+            "Double Indemnity",
+            "Too Late for Tears"
+        ]
+    },
+    {
+        "id": "gag",
+        "name": "Grass Ain't Greener",
+        "description": "Character abandons wholesome or safe love to pursue dangerous or corrupt love.",
+        "films": [
+            "Too Late for Tears"
+        ]
+    },
+    {
+        "id": "mms",
+        "name": "Money Mendacity Spiral",
+        "description": "Quickly compounding or accumulating issues stemming from monetary dishonesty.",
+        "films": [
+            "Too Late for Tears",
+            "Double Indemnity"
+        ]
+    },
+    {
+        "id": "mor",
+        "name": "Murder on Rails",
+        "description": "Murder occurring (or seeming to occur) on or near a train.",
+        "films": [
+            "Inner Sanctum",
+            "Double Indemnity"
+        ]
+    },
+    {
+        "id": "eta",
+        "name": "Eve Tempts Adam",
+        "description": "Woman cajoles man into doing an evil deed for her (usually murder).",
+        "films": [
+            "Double Indemnity",
+            "Too Late for Tears"
+        ]
+    },
+    {
+        "id": "bhb",
+        "name": "Boarding House Blues",
+        "description": "Issues with living in a boarding house, such as dangerous residents or intrusive landlords.",
+        "films": [
+            "Inner Sanctum"
+        ]
+    }
+]
